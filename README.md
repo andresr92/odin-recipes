@@ -1,0 +1,1 @@
+This project will about creating a recipes website showcasing the skills I learned with html from the Odin Project.
